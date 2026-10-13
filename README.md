@@ -6,4 +6,4 @@ A centralized collection of development conventions, configuration standards, an
 
 | Topic                                 | Description                                      |
 | ------------------------------------- | ------------------------------------------------ |
-| [Folder Structure](docs/structure.md) | Folder and file layout for web projects, by size |
+| [Folder Structure](docs/folder-structure.md) | Folder and file layout for web projects, by size |
